@@ -79,13 +79,13 @@ idth: 800px;">
 	
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
-    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the <a href="https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2021"><b>IEEE Signal Processing Cup</b></a>, and Won the global chanpionship</td> 	
+    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the <a href="https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2021"><b>IEEE Signal Processing Cup</b></a>, and Won the global championship</td> 	
 	</tr>
 
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">May 2021</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as <b> Assitant Manager </b> of the Knowledge Hub of the Electronic Club.</td> 	
+    		<td style = "border: none;font-size:17px;"> Appointed as <b> Assistant Manager </b> of the Knowledge Hub of the Electronic Club.</td> 	
 	</tr>
 	
 
