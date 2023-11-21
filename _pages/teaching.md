@@ -37,7 +37,7 @@ While following these modules and gaining theoretical knowledge, I have experien
   
 ### Mathematical fundamentals
 * MA4033 Time Series and Stochastic Processes
-* MA4013 Linear Models and Multivarariate Statistics
+* MA4013 Linear Models and Multivariate Statistics
 * MA3023 Numerical Methods
 * MA3013 Applied Statistics
 * MA2053 Graph Theory
