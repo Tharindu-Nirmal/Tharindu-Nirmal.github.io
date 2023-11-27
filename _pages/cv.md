@@ -12,4 +12,3 @@ redirect_from:
 
 <embed src="https://Tharindu-Nirmal.github.io/talks/LTN_Wickremasinghe_cv.pdf">
 <!-- width="200" height="300"> -->
- -->
