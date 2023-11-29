@@ -34,7 +34,7 @@ idth: 800px;">
 
      	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
-    		<td style = "border: none;font-size:17px;"> Ongoing project with prof. Marco F. Duarte accepted for the <a href="https://signalprocessingsociety.org/professional-development/me-uyr-mentoring-experiences-underrepresented-young-researchers-program"><b>"IEEE ME-UYR"</b></a> by the IEEE Signal Processing Society.</td> 	
+    		<td style = "border: none;font-size:17px;"> Ongoing project with prof. Marco F. Duarte accepted for the <a href="https://signalprocessingsociety.org/professional-development/me-uyr-mentoring-experiences-underrepresented-young-researchers-program"><b>"IEEE ME-UYR"</b></a> program by the IEEE Signal Processing Society.</td> 	
 	</tr>
 
 	<tr>
