@@ -56,7 +56,7 @@ idth: 800px;">
     
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">May 2023</td>
-    		<td style = "border: none;font-size:17px;"> "MOSAIC: Masked Optimisation with Selective Attention for Image reconstruction" is submitted for NeuRIPS2023 review.</td> 	
+    		<td style = "border: none;font-size:17px;"> <a href="https://arxiv.org/abs/2306.00906"><b>"MOSAIC"</b></a>: Masked Optimisation with Selective Attention for Image reconstruction" is submitted for NeuRIPS2023 review.</td> 	
 	</tr>  
  
 	
