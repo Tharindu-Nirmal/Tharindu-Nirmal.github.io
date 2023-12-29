@@ -33,6 +33,11 @@ idth: 800px;">
     	</colgroup>
 
      	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
+    		<td style = "border: none;font-size:17px;"> Graduated from the Faculty of Engineering, University of Moratuwa, with a First Class Honors in B.Sc (Engineering), <a href="https://m.facebook.com/story.php?story_fbid=pfbid02EP7C6AouC8Rmia2gbVP69GP81E8LHmbg8tnurEbpB2Fxv2YZiX2KjtZKzo5uXLaJl&id=100063733742397&mibextid=Nif5oz"><b>Gold medals</b></a>: 2 for academics, and for overall performance in leadership, and civic service. </td> 	
+	</tr>
+
+     	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
     		<td style = "border: none;font-size:17px;"> Ongoing project with prof. Marco F. Duarte accepted for the <a href="https://signalprocessingsociety.org/professional-development/me-uyr-mentoring-experiences-underrepresented-young-researchers-program"><b>"IEEE ME-UYR"</b></a> program by the IEEE Signal Processing Society.</td> 	
 	</tr>
