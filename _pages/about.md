@@ -13,10 +13,10 @@ My primary research is on Image/Video enhancement using generative AI. I work in
 I’m always happy to collaborate and make new friends. Feel free to reach out!
 
 <p>&nbsp;</p>
-My Hosts Throughout the years:
+<p>My Hosts Throughout the years:</p>
 
 <!-- <img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/> -->
-<img src="../images/CMMRS_logo.png" width="160"/> <img src="../images/UniSydney_logo.png" width="100"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/><img src="https://user-images.githubusercontent.com/52663918/191805216-ddcac48d-142f-40a4-ace5-cd1f8cb9f004.jpg" width="57"/>
+<p><img src="../images/College of Engineering_V-Full-RGB.jpg" width="60"/> <img src="../images/CMMRS_logo.png" width="160"/> <img src="../images/UniSydney_logo.png" width="100"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/><img src="https://user-images.githubusercontent.com/52663918/191805216-ddcac48d-142f-40a4-ace5-cd1f8cb9f004.jpg" width="57"/></p>
 
 <p>&nbsp;</p>
 
