@@ -30,74 +30,95 @@ News
        		<col span="1" style="width: 80%;">
     	</colgroup>
 
-     	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
-    		<td style = "border: none;font-size:17px;"> Graduated from the Faculty of Engineering, University of Moratuwa, with a First Class Honors in B.Sc (Engineering), <a href="https://m.facebook.com/story.php?story_fbid=pfbid02EP7C6AouC8Rmia2gbVP69GP81E8LHmbg8tnurEbpB2Fxv2YZiX2KjtZKzo5uXLaJl&id=100063733742397&mibextid=Nif5oz"><b>Gold medals</b></a>: for academics, and overall performance in leadership, and civic service. </td> 	
+     <tr>
+    	<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Graduated from the Faculty of Engineering, University of Moratuwa, with a First Class Honors in B.Sc (Engineering), <a href="https://m.facebook.com/story.php
+		story_fbid=pfbid02EP7C6AouC8Rmia2gbVP69GP81E8LHmbg8tnurEbpB2Fxv2YZiX2KjtZKzo5uXLaJl&id=100063733742397&mibextid=Nif5oz"><b>Gold medals</b></a>: for academics, and overall performance in leadership, and civic service. 
+		</td> 	
 	</tr>
 
-     	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
-    		<td style = "border: none;font-size:17px;"> Ongoing project with prof. Marco F. Duarte accepted for the <a href="https://signalprocessingsociety.org/professional-development/me-uyr-mentoring-experiences-underrepresented-young-researchers-program"><b>"IEEE ME-UYR"</b></a> program by the IEEE Signal Processing Society.</td> 	
+     <tr>
+    	<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Remote project with prof. Marco F. Duarte accepted for the <a href="https://signalprocessingsociety.org/professional-development/me-uyr-mentoring-experiences-underrepresented-young-researchers-program"><b>"IEEE ME-UYR"</b></a> program by the IEEE Signal Processing Society.
+		</td> 	
 	</tr>
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
-    		<td style = "border: none;font-size:17px;"> Invited to participate in the <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPlanck Research School"</b></a> by at MPI Saarbruecken, Germany.</td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Invited to participate in the <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPlanck Research School"</b></a> by at MPI Saarbruecken, Germany.
+		</td> 	
 	</tr>
 
  	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
-    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Moratuwa</b> as a <b>Visiting Instructor.</b></td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Joined the <b>University of Moratuwa</b> as a <b>Visiting Instructor.</b>
+		</td> 	
 	</tr>
     
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
-    		<td style = "border: none;font-size:17px;"> Presented my final year thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa.</td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Presented my final year thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa.
+		</td> 	
 	</tr>
 
 
     
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">May 2023</td>
-    		<td style = "border: none;font-size:17px;"> <a href="https://arxiv.org/abs/2306.00906"><b>"MOSAIC"</b></a>: Masked Optimisation with Selective Attention for Image reconstruction" is submitted for NeuRIPS2023 review.</td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">May 2023</td>
+    	<td style = "border: none;font-size:17px;"> 
+		<a href="https://arxiv.org/abs/2306.00906"><b>"MOSAIC"</b></a>: Masked Optimisation with Selective Attention for Image reconstruction" is published on arxiv.
+		</td> 	
 	</tr>  
  
 	
  	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">November 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joined <b> Centre for Advanced Imaging at Harvard University </b> as a <b> Remote Undergraduate Research Fellow </b>, under supervision of <b> Dr. Dushan. N. Wadduwage</b> from Wadduwage Lab, focusing on deep learning based image reconstruction algorithms for microscopy.</td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">November 2022</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Joined <b> Centre for Advanced Imaging at Harvard University </b> as a <b> Remote Undergraduate Research Fellow </b>, under supervision of <b> Dr. Dushan. N. Wadduwage</b> from Wadduwage Lab, focusing on deep learning based image reconstruction algorithms for microscopy.
+		</td> 	
 	</tr>	
 
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
-    		<td style = "border: none;font-size:17px;"> co-authored paper: <a href="https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c"><b>HPGNN: Hierarchical Point GNN for Outdoor Point Cloud processing</b></a> accepted at <b>ICPR 2022.</b></td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
+    	<td style = "border: none;font-size:17px;"> 
+		co-authored paper: <a href="https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c"><b>HPGNN: Hierarchical Point GNN for Outdoor Point Cloud processing</b></a> accepted at <b>ICPR 2022.</b>
+		</td> 	
 	</tr>
 
     
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">December 2021</td>
-    		<td style = "border: none;font-size:17px;"> Joined the School of Computer Science, <b>University of Sydney</b> as a <b>Research Intern.</b></td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">December 2021</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Joined the School of Computer Science, <b>University of Sydney</b> as a <b>Research Intern.</b>
+		</td> 	
 	</tr>
 	   
 	   
-	   
+	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Virtually attended ICASSP 2021 to defend our solution to the <a href="https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2021"><b>IEEE Signal Processing Cup</b></a>, and Won the global championship
+		</td> 	
+	</tr>
+
+
+	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">May 2021</td>
+    	<td style = "border: none;font-size:17px;"> Appointed as <b> Assistant Manager </b> of the Knowledge Hub of the Electronic Club.
+		</td> 	
+	</tr>
 	
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
-    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the <a href="https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2021"><b>IEEE Signal Processing Cup</b></a>, and Won the global championship</td> 	
-	</tr>
-
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">May 2021</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as <b> Assistant Manager </b> of the Knowledge Hub of the Electronic Club.</td> 	
-	</tr>
-	
-
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">October 2018</td>
-    		<td style = "border: none;font-size:17px;"> Started my undergraduate degree in Electronic and Telecommunications Engineering at University of Moratuwa, Sri Lanka.</td> 	
+    	<td style = "border: none;color:blue;font-size:17px;">October 2018</td>
+    	<td style = "border: none;font-size:17px;"> Started my undergraduate degree in Electronic and Telecommunications Engineering at University of Moratuwa, Sri Lanka.
+		</td> 	
 	</tr>
    </table> 
  </div>
