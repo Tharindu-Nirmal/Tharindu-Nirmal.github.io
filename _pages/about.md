@@ -13,18 +13,17 @@ My primary research is on Image/Video enhancement using generative AI. I work in
 I’m always happy to collaborate and make new friends. Feel free to reach out!
 
 <p>&nbsp;</p>
-<p>My Hosts Throughout the years:</p>
+<p>My hosts throughout the years:</p>
 
 <!-- <img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/> -->
-<p><img src="../images/College of Engineering_V-Full-RGB.jpg" width="90"/> <img src="../images/CMMRS_logo.png" width="160"/> <img src="../images/UniSydney_logo.png" width="120"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="180"/><img src="https://user-images.githubusercontent.com/52663918/191805216-ddcac48d-142f-40a4-ace5-cd1f8cb9f004.jpg" width="57"/></p>
+<p><img src="../images/College of Engineering_V-Full-RGB.jpg" width="90"/> <img src="../images/CMMRS_logo.png" width="160"/> <img src="../images/UniSydney_logo.png" width="140"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="160"/><img src="https://user-images.githubusercontent.com/52663918/191805216-ddcac48d-142f-40a4-ace5-cd1f8cb9f004.jpg" width="57"/></p>
 
 <p>&nbsp;</p>
 
 News
 ===
 	
- <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
-idth: 800px;">
+ <div style="height: 500px; overflow: auto; width: 800px;">
    <table style = "border: none;width: 100%">
 	<colgroup>
        		<col span="1" style="width: 20%;">
