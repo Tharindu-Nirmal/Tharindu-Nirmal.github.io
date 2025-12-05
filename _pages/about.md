@@ -7,7 +7,53 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+  /* Make the main page title a bit smaller on THIS page */
+  .page__title {
+    font-size: 1.7rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* Reusable section heading (News, Research, etc.) */
+  .section-title {
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* Layout for highlighted research items */
+  .research-list {
+    margin-top: 0.5rem;
+  }
+
+  .research-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+  }
+
+  .research-thumb {
+    width: 140px;
+    height: auto;
+    margin-right: 1rem;
+    border-radius: 4px;
+  }
+
+  .research-item h3 {
+    font-size: 1.05rem;
+    margin: 0 0 0.25rem 0;
+  }
+
+  .research-item p {
+    margin: 0.1rem 0;
+  }
+</style>
+
+
 <div style="text-align: justify; width: 800px">
+	
 I'm a Second-year PhD student under professor <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan </a>- at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab </a>. We are at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>- Purdue University, USA. Prior to graduate school, I received my Bachelors in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka. 
 My primary research is on Image/Video enhancement using generative AI. I work in the intersection of generative AI, image/video restoration, and computational imaging- leveraging vision and language models for physically consistent enhancement of images and videos.
 I’m always happy to collaborate and make new friends. Feel free to reach out!
@@ -15,20 +61,23 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 <p>&nbsp;</p>
 <p>My hosts throughout the years:</p>
 
-<!-- <img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/> -->
-<p><img src="../images/College of Engineering_V-Full-RGB.jpg" width="90"/> <img src="../images/CMMRS_logo.png" width="160"/> <img src="../images/UniSydney_logo.png" width="140"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="160"/><img src="https://user-images.githubusercontent.com/52663918/191805216-ddcac48d-142f-40a4-ace5-cd1f8cb9f004.jpg" width="57"/></p>
+<p>
+	<img src="../images/College of Engineering_V-Full-RGB.jpg" width="90"/> 
+	<img src="../images/CMMRS_logo.png" width="160"/> <img src="../images/UniSydney_logo.png" width="140"/> 
+	<img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="160"/>
+	<img src="https://user-images.githubusercontent.com/52663918/191805216-ddcac48d-142f-40a4-ace5-cd1f8cb9f004.jpg" width="57"/>
+</p>
 
 <p>&nbsp;</p>
 
-News
-===
-	
- <div style="height: 300px; overflow: auto; width: 800px;">
-   <table style = "border: none;width: 100%">
+<h2 class="section-title">News</h2>
+
+<div style="height: 300px; overflow: auto; width: 800px;">
+  <table style = "border: none;width: 100%">
 	<colgroup>
-       		<col span="1" style="width: 20%;">
-       		<col span="1" style="width: 80%;">
-    	</colgroup>
+       	<col span="1" style="width: 20%;">
+       	<col span="1" style="width: 80%;">
+    </colgroup>
 
 	<tr>
     	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
