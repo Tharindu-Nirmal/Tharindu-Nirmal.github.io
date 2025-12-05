@@ -30,6 +30,34 @@ News
        		<col span="1" style="width: 80%;">
     	</colgroup>
 
+	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
+    	<td style = "border: none;font-size:17px;"> 
+		2 papers under review for CVPR 2026. 
+		</td> 	
+	</tr>
+
+	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
+    	<td style = "border: none;font-size:17px;"> 
+		1 paper under review for ICCV 2026. 
+		</td> 	
+	</tr>
+
+	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">April 2025</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Present my work with the IEEE-MEUYR program at ICASSP 2025- Hyderabad. 
+		</td> 	
+	</tr>
+
+	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">August 2024</td>
+    	<td style = "border: none;font-size:17px;"> 
+		Started as graduate school as a graduate teaching assistant at Purdue University. TA for ECE301 Signals and Systems.
+		</td> 	
+	</tr>
+
      <tr>
     	<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
     	<td style = "border: none;font-size:17px;"> 
