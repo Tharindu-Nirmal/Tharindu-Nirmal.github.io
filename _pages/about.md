@@ -33,14 +33,21 @@ News
 	<tr>
     	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
     	<td style = "border: none;font-size:17px;"> 
-		2 papers under review for CVPR 2026. 
+		2 papers under review for CVPR 2026, 1 paper under review at ICCV 2026. 
 		</td> 	
 	</tr>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">October 2025</td>
+    	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
     	<td style = "border: none;font-size:17px;"> 
-		1 paper under review for ICCV 2026. 
+		We released <a href="https://yuyuanspace.com/SeeU/"><b>SeeU</b></a>: a 4D understanding and video generation pipeline that reveals unseen time and space. 
+		</td> 	
+	</tr>
+
+	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">September 2025</td>
+    	<td style = "border: none;font-size:17px;"> 
+		We released <a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: a physics-consistent and controllable text-to-video framework. 
 		</td> 	
 	</tr>
 
