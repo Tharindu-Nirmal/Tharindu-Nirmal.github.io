@@ -23,7 +23,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 News
 ===
 	
- <div style="height: 500px; overflow: auto; width: 800px;">
+ <div style="height: 300px; overflow: auto; width: 800px;">
    <table style = "border: none;width: 100%">
 	<colgroup>
        		<col span="1" style="width: 20%;">
