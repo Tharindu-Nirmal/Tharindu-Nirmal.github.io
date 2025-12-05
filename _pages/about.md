@@ -220,8 +220,8 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
       <p>Yu Yuan, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Xijun Wang, Yiheng Chi, Stanley H. Chan.</p>
       <p><i>Under review.</i>
         <a href="https://yuyuanspace.com/SeeU/">project</a> /
-        <a href="https://arxiv.org/">arXiv</a> /
-        <a href="https://github.com/">code</a>
+        <a href="https://arxiv.org/abs/2512.03350">arXiv</a> /
+        <a href="https://github.com/">code(Coming soon)</a>
       </p>
     </div>
   </div>
@@ -234,8 +234,8 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
       <p>Yu Yuan, Xijun Wang, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Bole Ma, Stanley H. Chan.</p>
       <p><i>Under review.</i>
         <a href="https://yuyuanspace.com/NewtonGen/">project</a> /
-        <a href="https://arxiv.org/">arXiv</a> /
-        <a href="https://github.com/">code</a>
+        <a href="https://arxiv.org/abs/2509.21309">arXiv</a> /
+        <a href="https://github.com/pandayuanyu/NewtonGen">code</a>
       </p>
     </div>
   </div>
