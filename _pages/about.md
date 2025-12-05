@@ -54,7 +54,7 @@ redirect_from:
 
 <div style="text-align: justify; width: 800px">
 	
-I'm a Second-year PhD student under professor <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan </a>- at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab </a>. We are at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>- Purdue University, USA. Prior to graduate school, I received my Bachelors in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka. 
+I'm a Second-year PhD student under professor <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan </a>- at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab. </a> We are at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>- Purdue University, USA. Prior to graduate school, I received my Bachelors in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka. 
 My primary research is on Image/Video enhancement using generative AI. I work in the intersection of generative AI, image/video restoration, and computational imaging- leveraging vision and language models for physically consistent enhancement of images and videos.
 I’m always happy to collaborate and make new friends. Feel free to reach out!
 
@@ -207,13 +207,60 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
    </table> 
  </div>
 
-Research
-===
+<h2 class="section-title">Selected Research</h2>
 
-Previous research areas: Structured sparsity, Compressed Sensing and Inverse Problems in Imaging, Graph Neural Networks, Intelligent Reflective Surfaces, and Human Motion Prediction.
+<div class="research-list">
 
-<p>&nbsp;</p>
-Through the IEEE SPS Young Researcher initiatives, I have collaborated with <a href="https://scholar.google.com/citations?hl=en&user=xplw9-gAAAAJ">Prof. Marco F. Duarte </a> in structured sparsity in images. I completed my Bachelors in Engineering with a First Class Honors and the gold medal for my cohort at the Department of Electronic and Telecommunication Engineering (ENTC), and the gold medal from the Faculty of Engineering, University of Moratuwa, Sri Lanka. My final year thesis project was on "Optical microscopy optimisation through compressive sensing and reconstruction" under the supervision of <a href="https://centerforadvancedimaging.harvard.edu/people/dushan-wadduwage-phd/">Dr. Dushan Wadduwage</a> and <a href= "https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>. This research project was a part of a collaboration with the <a href="https://wadduwagelab.github.io/">Wadduwage lab</a> at the Centre for Advanced Imaging at Harvard University. I have worked in physics-based human motion prediction in the University of Sydney, Australia during my internship with <a href= "https://scholar.google.com.sg/citations?user=y17ckyIAAAAJ&hl=en">Dr. Anusha Withana</a>. Further, as self-initiated research projects, I have worked on point cloud segmentation using Graph Neural Networks with <a href="https://scholar.google.com/citations?user=YaEJbvYAAAAJ&hl=en">Dr. Ranga Rodrigo</a>, and channel estimation and RIS configuration search with <a href="https://scholar.google.com/citations?hl=en&user=4-S204cAAAAJ">Dr. Prathapasinghe Dharmawansa</a>. 
-<p>&nbsp;</p> 
+  <!-- Research item 1 -->
+  <div class="research-item">
+    <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
+    <img src="../images/seeu_teaser.jpg" alt="SeeU teaser" class="research-thumb" />
+    <div>
+      <h3>SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation</h3>
+      <p>Yu Yuan, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Xijun Wang, Yiheng Chi, Stanley H. Chan.</p>
+      <p><i>Under review.</i>
+        <a href="https://yuyuanspace.com/SeeU/">project</a> /
+        <a href="https://arxiv.org/">arXiv</a> /
+        <a href="https://github.com/">code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Research item 2 -->
+  <div class="research-item">
+    <img src="../images/newtongen_teaser.jpg" alt="NewtonGen teaser" class="research-thumb" />
+    <div>
+      <h3>NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics</h3>
+      <p>Yu Yuan, Xijun Wang, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Bole Ma, Stanley H. Chan.</p>
+      <p><i>Under review.</i>
+        <a href="https://yuyuanspace.com/NewtonGen/">project</a> /
+        <a href="https://arxiv.org/">arXiv</a> /
+        <a href="https://github.com/">code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Add more .research-item blocks as you like -->
+
+</div>
+
+<p><b>Previous research areas:</b> Structured sparsity, Compressed Sensing and Inverse Problems in Imaging, Graph Neural Networks, Intelligent Reflective Surfaces, and Human Motion Prediction.</p>
+
+<p>
+Through the IEEE SPS Young Researcher initiatives, I have collaborated with 
+<a href="https://scholar.google.com/citations?hl=en&user=xplw9-gAAAAJ">Prof. Marco F. Duarte</a> on structured sparsity in images. 
+I completed my Bachelors in Engineering with a First Class Honors and the gold medal for my cohort at the Department of Electronic and Telecommunication Engineering (ENTC), and the gold medal from the Faculty of Engineering, University of Moratuwa, Sri Lanka. 
+My final year thesis project was on "Optical microscopy optimisation through compressive sensing and reconstruction" under the supervision of 
+<a href="https://centerforadvancedimaging.harvard.edu/people/dushan-wadduwage-phd/">Dr. Dushan Wadduwage</a> and 
+<a href="https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>. 
+This research project was part of a collaboration with the <a href="https://wadduwagelab.github.io/">Wadduwage Lab</a> at the Centre for Advanced Imaging at Harvard University. 
+I have worked on physics-based human motion prediction at the University of Sydney, Australia during my internship with 
+<a href="https://scholar.google.com.sg/citations?user=y17ckyIAAAAJ&hl=en">Dr. Anusha Withana</a>. 
+Further, as self-initiated research projects, I have worked on point cloud segmentation using Graph Neural Networks with 
+<a href="https://scholar.google.com/citations?user=YaEJbvYAAAAJ&hl=en">Dr. Ranga Rodrigo</a>, and channel estimation and RIS configuration search with 
+<a href="https://scholar.google.com/citations?hl=en&user=4-S204cAAAAJ">Dr. Prathapasinghe Dharmawansa</a>.
+</p>
+
+</div>
 
 
