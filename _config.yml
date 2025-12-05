@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tharindu Wickremasinghe"
 title_separator          : "-"
 name                     : &name "Tharindu Wickremasinghe"
-description              : &description "Visiting Instructor, University of Moratuwa"
+description              : &description "Doctoral Student, Purdue University"
 url                      : #https://tharindu-nirmal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tharindu-Nirmal/Tharindu-Nirmal.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Tharindu Wickremasinghe"
   avatar           : "myphoto.jpeg"
-  bio              : "Visiting Instructor,
-                      University of Moratuwa"
-  location         : "Colombo, Sri Lanka"
+  bio              : "Doctoral Student,
+                      Purdue University"
+  location         : "Indiana, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DBAH8C0AAAAJ"
-  email            : "tharindu.ncr@gmail.com"
+  email            : "lwickrem@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
