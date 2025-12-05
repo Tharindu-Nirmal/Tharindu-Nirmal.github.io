@@ -8,6 +8,10 @@ author_profile: True
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
 # Teaching
+### Graduate TA- <a href="https://engineering.purdue.edu/ECE"> Purdue ECE</a>
+Prepare and grade assignments, conduct office hours, and invigilate exams. I engage with students, coordinate the piazza sessions answering questions, and help the instructor manage the class.
+* ECE301 Signals and Systems, Fall 2024
+
 ### Visiting Instructor- <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
 I assist the lecturers in assignment preparation, evaluations, laboratory work, and invigilation of examinations.
 Additionally I conduct reviews on problem sets, and conduct extra sessions when students request additional help or tutoring.
@@ -26,7 +30,22 @@ Additionally I conduct reviews on problem sets, and conduct extra sessions when 
 
 
 # Learning
-## A Selection of Undergraduate Modules
+## Graduate studies
+Courses taken at Purdue Unviersity offered by the College of Engineering, and College of Sciences.
+
+### Core courses
+* ECE6000 Random Variables and Signals with prof. <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=8864"> Mary Comer.</a> 
+* ECE6410 Model-Based Image and signal processing with prof. <a href="https://engineering.purdue.edu/~bouman/"> Charles Bowman.</a>
+* ECE5240 Machine learning with prof. <a href="https://engineering.purdue.edu/ChanGroup/ECE50024/index.html"> Stanley Chan.</a>
+* ECE5130 Diffraction, Fourier Optics, and Imaging with prof. <a href="https://engineering.purdue.edu/ChanGroup/ECE513.html"> Stanley Chan.</a>
+* ECE6370 Digital Image ProcessingI with prof. <a href="https://engineering.purdue.edu/~bouman/"> Charles Bowman.</a>
+* ECE6450 Estimation Theory with prof. <a href="https://engineering.purdue.edu/~djlove/"> David J. Love.</a>
+
+### " Math be mathin' " 
+* MA 5110 Linear Algebra with applications with prof. M. Sunkula
+* ECE6020 Lumped System Theory with prof. <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3272"> Stanislaw Zak.</a>
+
+## A selection from undergraduate days
 While following these modules and gaining theoretical knowledge, I have experience projects and publications in related research. Gradually I discovered my passion for underlying stochastic processes and in the theory of machine learning. 
 
 ### Advanced Courses
