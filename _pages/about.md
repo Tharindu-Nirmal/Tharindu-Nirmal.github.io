@@ -214,7 +214,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
   <!-- Research item 1 -->
   <div class="research-item">
     <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
-    <img src="../images/seeu_teaser.jpg" alt="SeeU teaser" class="research-thumb" />
+    <img src="../images/SeeU.gif" alt="SeeU teaser" class="research-thumb" />
     <div>
       <h3>SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation</h3>
       <p>Yu Yuan, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Xijun Wang, Yiheng Chi, Stanley H. Chan.</p>
@@ -228,7 +228,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 
   <!-- Research item 2 -->
   <div class="research-item">
-    <img src="../images/newtongen_teaser.jpg" alt="NewtonGen teaser" class="research-thumb" />
+    <img src="../images/newtongen.gif" alt="NewtonGen teaser" class="research-thumb" />
     <div>
       <h3>NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics</h3>
       <p>Yu Yuan, Xijun Wang, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Bole Ma, Stanley H. Chan.</p>
