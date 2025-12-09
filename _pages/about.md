@@ -211,7 +211,22 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 
 <div class="research-list">
 
-  <!-- Research item 1 -->
+	<!-- Research item 1 -->
+  <div class="research-item">
+    <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
+    <img src="../images/FlowSteer_teaser.png" alt="FlowSteer teaser" class="research-thumb" />
+    <div>
+      <h3>FlowSteer: Conditioning Flow Field for Consistent Image Restoration</h3>
+      <b>Tharindu Wickremasinghe</b>, Chenyang Qi, Harshana Weligampola, Zhengzhong Tu, Stanley H. Chan.</p>
+      <p><i>Under review.</i>
+        <a href="https://tharindu-nirmal.github.io/FlowSteer/">project</a> /
+        <a href="https://arxiv.org/">arXiv</a> /
+        <a href="https://github.com/Tharindu-Nirmal/FlowSteer">code(Coming soon)</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Research item 2 -->
   <div class="research-item">
     <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
     <img src="../images/SeeU.gif" alt="SeeU teaser" class="research-thumb" />
@@ -226,7 +241,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
     </div>
   </div>
 
-  <!-- Research item 2 -->
+  <!-- Research item 3 -->
   <div class="research-item">
     <img src="../images/newtongen.gif" alt="NewtonGen teaser" class="research-thumb" />
     <div>
@@ -236,6 +251,20 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
         <a href="https://yuyuanspace.com/NewtonGen/">project</a> /
         <a href="https://arxiv.org/abs/2509.21309">arXiv</a> /
         <a href="https://github.com/pandayuanyu/NewtonGen">code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Research item 4 -->
+  <div class="research-item">
+    <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
+    <img src="../images/AffineClustering_teaser.png" alt="Affine Clustering teaser" class="research-thumb" />
+    <div>
+      <h3>SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation</h3>
+      <b>Tharindu Wickremasinghe</b>, Marco F. Duarte</p>
+      <p><i>Under review.</i>
+        <a href="https://www.arxiv.org/abs/2512.07259">arXiv</a> /
+        <a href="https://github.com/Tharindu-Nirmal/psp-affine-clustering">code(Coming soon)</a>
       </p>
     </div>
   </div>
