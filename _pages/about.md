@@ -82,7 +82,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 	<tr>
     	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
     	<td style = "border: none;font-size:17px;"> 
-		2 papers under review for CVPR 2026, 1 paper under review at ICCV 2026. 
+		. 
 		</td> 	
 	</tr>
 
