@@ -82,7 +82,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 	<tr>
     	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
     	<td style = "border: none;font-size:17px;"> 
-		. 
+		We released <a href="https://tharindu-nirmal.github.io/FlowSteer/"><b>FlowSteer</b></a>: which restores image degradations by steering flow models to preserve high pixel-level fidelity. 
 		</td> 	
 	</tr>
 
@@ -220,7 +220,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
       <p><b>Tharindu Wickremasinghe</b>, Chenyang Qi, Harshana Weligampola, Zhengzhong Tu, Stanley H. Chan.</p>
       <p><i>Under review.</i>
         <a href="https://tharindu-nirmal.github.io/FlowSteer/">project</a> /
-        <a href="https://arxiv.org/">arXiv</a> /
+        <a href="https://arxiv.org/abs/2512.08125/">arXiv</a> /
         <a href="https://github.com/Tharindu-Nirmal/FlowSteer">code(Coming soon)</a>
       </p>
     </div>
