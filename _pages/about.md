@@ -80,6 +80,13 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
     </colgroup>
 
 	<tr>
+    	<td style = "border: none;color:blue;font-size:17px;">January 2026</td>
+    	<td style = "border: none;font-size:17px;"> 
+		<a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: has been accepted by ICLR 2026!.
+		</td> 	
+	</tr>
+
+	<tr>
     	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
     	<td style = "border: none;font-size:17px;"> 
 		We released <a href="https://tharindu-nirmal.github.io/FlowSteer/"><b>FlowSteer</b></a>: which restores image degradations by steering flow models to preserve high pixel-level fidelity. 
@@ -247,7 +254,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
     <div>
       <h3>NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics</h3>
       <p>Yu Yuan, Xijun Wang, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Bole Ma, Stanley H. Chan.</p>
-      <p><i>Under review.</i>
+      <p><i>ICLR 2026</i>
         <a href="https://yuyuanspace.com/NewtonGen/">project</a> /
         <a href="https://arxiv.org/abs/2509.21309">arXiv</a> /
         <a href="https://github.com/pandayuanyu/NewtonGen">code</a>
@@ -264,7 +271,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
       <p><b>Tharindu Wickremasinghe</b>, Marco F. Duarte</p>
       <p><i>IEEE Asilomar Conference on Signals, Systems, and Computers 2025.</i>
         <a href="https://www.arxiv.org/abs/2512.07259">arXiv</a> /
-        <a href="https://github.com/Tharindu-Nirmal/psp-affine-clustering">code(Coming soon)</a>
+        <a href="https://github.com/Tharindu-Nirmal/psp-affine-clustering">code</a>
       </p>
     </div>
   </div>
