@@ -218,7 +218,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
     <div>
       <h3>FlowSteer: Conditioning Flow Field for Consistent Image Restoration</h3>
       <p><b>Tharindu Wickremasinghe</b>, Chenyang Qi, Harshana Weligampola, Zhengzhong Tu, Stanley H. Chan.</p>
-      <p><i>Under review.</i>
+      <p><i>CVPR 2026 (Findings)</i>
         <a href="https://tharindu-nirmal.github.io/FlowSteer/">project</a> /
         <a href="https://arxiv.org/abs/2512.08125/">arXiv</a> /
         <a href="https://github.com/Tharindu-Nirmal/FlowSteer">code(Coming soon)</a>
@@ -233,7 +233,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
     <div>
       <h3>SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation</h3>
       <p>Yu Yuan, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Xijun Wang, Yiheng Chi, Stanley H. Chan.</p>
-      <p><i>Under review.</i>
+      <p><i>CVPR 2026</i>
         <a href="https://yuyuanspace.com/SeeU/">project</a> /
         <a href="https://arxiv.org/abs/2512.03350">arXiv</a> /
         <a href="https://github.com/">code(Coming soon)</a>
