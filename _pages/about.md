@@ -82,7 +82,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 	<tr>
     	<td style = "border: none;color:blue;font-size:17px;">January 2026</td>
     	<td style = "border: none;font-size:17px;"> 
-		<a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: has been accepted by ICLR 2026!.
+		<a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: has been accepted by ICLR 2026!. <a href="https://tharindu-nirmal.github.io/FlowSteer/"><b>FlowSteer</b></a> has been accepted by CVPR 2026(Findings), and <a href="https://yuyuanspace.com/SeeU/"><b>SeeU</b></a> has been accepted by CVPR 2026!
 		</td> 	
 	</tr>
 

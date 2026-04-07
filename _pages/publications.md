@@ -7,17 +7,17 @@ author_profile: true
 
 <b> FlowSteer: Conditioning Flow Field for Consistent Image Restoration </b><br/>
 <b>Tharindu Wickremasinghe</b>, Chenyang Qi, Harshana Weligampola, Zhengzhong Tu, Stanley H. Chan.<br/>
-under review. <br/>
+CVPR 2026 (Findings). <br/>
 [[arxiv](https://arxiv.org/abs/2512.08125)]
 
 <b> SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation </b><br/>
 Yu Yuan, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Xijun Wang, Yiheng Chi, Stanley H. Chan.<br/>
-under review.<br/>
+CVPR 2026.<br/>
 [[arxiv](https://arxiv.org/abs/2512.03350)]
 
 <b> NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics </b><br/>
 Yu Yuan, Xijun Wang, <b>Tharindu Wickremasinghe</b>, Zeeshan Nadir, Bole Ma, Stanley H. Chan.<br/>
-under review.<br/>
+ICLR 2026.<br/>
 [[arxiv](https://arxiv.org/abs/2509.21309)]
 
 <b> Affine Subspace Models and Clustering for Patch-Based Image Denoising </b><br/>
