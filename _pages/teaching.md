@@ -39,11 +39,12 @@ Courses taken at Purdue Unviersity offered by the College of Engineering, and Co
 * ECE5240 Machine learning with prof. <a href="https://engineering.purdue.edu/ChanGroup/ECE50024/index.html"> Stanley Chan.</a>
 * ECE5130 Diffraction, Fourier Optics, and Imaging with prof. <a href="https://engineering.purdue.edu/ChanGroup/ECE513.html"> Stanley Chan.</a>
 * ECE6370 Digital Image ProcessingI with prof. <a href="https://engineering.purdue.edu/~bouman/"> Charles Bowman.</a>
-* ECE6450 Estimation Theory with prof. <a href="https://engineering.purdue.edu/~djlove/"> David J. Love.</a>
+//* ECE6450 Estimation Theory with prof. <a href="https://engineering.purdue.edu/~djlove/"> David J. Love.</a>
 
 ### " Math be mathin' " 
 * MA 5110 Linear Algebra with applications with prof. M. Sunkula
 * ECE6020 Lumped System Theory with prof. <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3272"> Stanislaw Zak.</a>
+* MA 5040 Real Analysis with prof. <a href="https://sites.google.com/view/ajaychandra/home"> Stanislaw Zak.</a>
 
 ## A selection from undergraduate days
 While following these modules and gaining theoretical knowledge, I have experience projects and publications in related research. Gradually I discovered my passion for underlying stochastic processes and in the theory of machine learning. 

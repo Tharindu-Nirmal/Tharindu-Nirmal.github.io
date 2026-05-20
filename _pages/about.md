@@ -243,7 +243,7 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
       <p><i>CVPR 2026</i>
         <a href="https://yuyuanspace.com/SeeU/">project</a> /
         <a href="https://arxiv.org/abs/2512.03350">arXiv</a> /
-        <a href="https://github.com/">code(Coming soon)</a>
+        <a href="https://github.com/pandayuanyu/SeeU">code</a>
       </p>
     </div>
   </div>
