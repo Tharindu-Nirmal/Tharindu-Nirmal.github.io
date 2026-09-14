@@ -49,14 +49,24 @@ redirect_from:
   .research-item p {
     margin: 0.1rem 0;
   }
+
+  /* Subheading within the Research section, e.g. "Generative Images/Video" */
+  .research-subtitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
 </style>
 
 
 <div style="text-align: justify; width: 800px">
 	
-I'm a Second-year PhD student under professor <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan </a>- at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab. </a> We are at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>- Purdue University, USA. Prior to graduate school, I received my Bachelors in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka. 
+I'm a Third-year PhD student under professor <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan </a>- at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab. </a> We are at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>- Purdue University, USA. Prior to graduate school, I received my Bachelors in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka. 
 My primary research is on Image/Video enhancement using generative AI. I work in the intersection of generative AI, image/video restoration, and computational imaging- leveraging vision and language models for physically consistent enhancement of images and videos.
 I’m always happy to collaborate and make new friends. Feel free to reach out!
+
+<p><b>I am actively searching for internships for Summer 2027.</b></p>
 
 <p>&nbsp;</p>
 <p>My hosts throughout the years:</p>
@@ -214,11 +224,13 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
    </table> 
  </div>
 
-<h2 class="section-title">Selected Research</h2>
+<h2 class="section-title">Research</h2>
 
 <div class="research-list">
 
-	<!-- Research item 1 -->
+  <h3 class="research-subtitle">Generative Images/Video</h3>
+
+  <!-- Research item 1 -->
   <div class="research-item">
     <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
     <img src="../images/FlowSteer_teaser.png" alt="FlowSteer teaser" class="research-thumb" />
@@ -261,6 +273,8 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
       </p>
     </div>
   </div>
+
+  <h3 class="research-subtitle">Structured Sparsity</h3>
 
   <!-- Research item 4 -->
   <div class="research-item">

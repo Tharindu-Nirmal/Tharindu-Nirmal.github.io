@@ -39,7 +39,9 @@ Courses taken at Purdue Unviersity offered by the College of Engineering, and Co
 * ECE5240 Machine learning with prof. <a href="https://engineering.purdue.edu/ChanGroup/ECE50024/index.html"> Stanley Chan.</a>
 * ECE5130 Diffraction, Fourier Optics, and Imaging with prof. <a href="https://engineering.purdue.edu/ChanGroup/ECE513.html"> Stanley Chan.</a>
 * ECE6370 Digital Image ProcessingI with prof. <a href="https://engineering.purdue.edu/~bouman/"> Charles Bowman.</a>
-//* ECE6450 Estimation Theory with prof. <a href="https://engineering.purdue.edu/~djlove/"> David J. Love.</a>
+<!-- * ECE6450 Estimation Theory with prof. <a href="https://engineering.purdue.edu/~djlove/"> David J. Love.</a> -->
+* <a href="https://engineering.purdue.edu/~ee538/">ECE538 Digital Signal Processing</a> with prof. <a href="https://engineering.purdue.edu/~mikedz/index.html"> Michael Zoltowski.</a>
+* <a href="https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=829&show=true&type=grad">ECE595 Reinforcement Learning</a> with prof. <a href="https://mahsaghasemi.github.io/"> Mahsa Ghasemi.</a>
 
 ### " Math be mathin' " 
 * MA 5110 Linear Algebra with applications with prof. M. Sunkula

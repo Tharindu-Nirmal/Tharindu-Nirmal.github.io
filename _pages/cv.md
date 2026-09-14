@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="height: 900px;">
   <embed
-    src="https://Tharindu-Nirmal.github.io/talks/LTN_Wickremasinghe_cv.pdf"
+    src="https://Tharindu-Nirmal.github.io/talks/TharinduWickremasinghe_MasterResume.pdf"
     type="application/pdf"
     width="100%"
     height="100%">

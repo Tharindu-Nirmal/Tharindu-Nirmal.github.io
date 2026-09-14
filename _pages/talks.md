@@ -41,7 +41,7 @@ T. Wickremasinghe, A.Niwarthana, P. Somarathne, A. Thieshanthan, B. Weissbourd, 
 Lost in Translation: The Critical Role of Attention in Adaptive Image Reconstruction, <br />
 At Computational Optical Sensing and Imaging track, <a href="https://www.optica.org/events/congress/imaging_and_applied_optics_congress/program/computational_optical_sensing_and_imaging/">[COSI]</a> <br />
 OSA Optica Imaging Congress, Cambridge, MA, 2023 <br />
-<a href="../_talks/OpticaPayAttentionToFrequencies.pdf">[abstract]</a> <br />
+<a href="/talks/OpticaPayAttentionToFrequencies.pdf">[abstract]</a> <br />
 </div>
 <hr>
 
