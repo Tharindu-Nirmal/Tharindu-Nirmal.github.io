@@ -62,11 +62,13 @@ redirect_from:
 
 <div style="text-align: justify; width: 800px">
 	
-I'm a Third-year PhD student under professor <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan </a>- at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab. </a> We are at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>- Purdue University, USA. Prior to graduate school, I received my Bachelors in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka. 
-My primary research is on Image/Video enhancement using generative AI. I work in the intersection of generative AI, image/video restoration, and computational imaging- leveraging vision and language models for physically consistent enhancement of images and videos.
-I’m always happy to collaborate and make new friends. Feel free to reach out!
+<p>I'm Tharindu Wickremasinghe, a third-year PhD student at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>, under the supervision of <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan</a> at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab</a>. Prior to graduate school, I received my Bachelor's degree in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka.</p>
 
-<p><b>I am actively searching for internships for Summer 2027.</b></p>
+<p>My research is in grounding powerful generative AI models in the physical laws and constraints of the real world, while also giving a human the ability to better interact and control the model. I focus on <strong>image/video enhancement using generative AI</strong>, working at the intersection of generative modeling, image/video restoration, and computational imaging — leveraging vision and language models to enforce <strong>physically consistent</strong> enhancement of images and videos.</p>
+
+<p>I enjoy identifying fundamental problems in emerging areas and developing simple, effective solutions to them. Following this philosophy, I have contributed to research directions including <a href="https://tharindu-nirmal.github.io/FlowSteer/">FlowSteer</a>, <a href="https://yuyuanspace.com/SeeU/">SeeU</a>, and <a href="https://yuyuanspace.com/NewtonGen/">NewtonGen</a>.<br>
+<span style="color:#c6453d;"><strong>I am actively searching for internships for Summer 2027.</strong></span><br>
+I'm always happy to collaborate and make new friends — feel free to reach out!</p>
 
 <p>&nbsp;</p>
 <p>My hosts throughout the years:</p>
@@ -90,79 +92,79 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
     </colgroup>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">January 2026</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">January 2026</td>
+    	<td style = "border: none;font-size:15px;"> 
 		<a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: has been accepted by ICLR 2026!. <a href="https://tharindu-nirmal.github.io/FlowSteer/"><b>FlowSteer</b></a> has been accepted by CVPR 2026(Findings), and <a href="https://yuyuanspace.com/SeeU/"><b>SeeU</b></a> has been accepted by CVPR 2026!
 		</td> 	
 	</tr>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">November 2025</td>
+    	<td style = "border: none;font-size:15px;"> 
 		We released <a href="https://tharindu-nirmal.github.io/FlowSteer/"><b>FlowSteer</b></a>: which restores image degradations by steering flow models to preserve high pixel-level fidelity. 
 		</td> 	
 	</tr>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">November 2025</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">November 2025</td>
+    	<td style = "border: none;font-size:15px;"> 
 		We released <a href="https://yuyuanspace.com/SeeU/"><b>SeeU</b></a>: a 4D understanding and video generation pipeline that reveals unseen time and space. 
 		</td> 	
 	</tr>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">September 2025</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">September 2025</td>
+    	<td style = "border: none;font-size:15px;"> 
 		We released <a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: a physics-consistent and controllable text-to-video framework. 
 		</td> 	
 	</tr>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">April 2025</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">April 2025</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Present my work with the IEEE-MEUYR program at ICASSP 2025- Hyderabad. 
 		</td> 	
 	</tr>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">August 2024</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">August 2024</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Started as graduate school as a graduate teaching assistant at Purdue University. TA for ECE301 Signals and Systems.
 		</td> 	
 	</tr>
 
      <tr>
-    	<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">December 2023</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Graduated from the Faculty of Engineering, University of Moratuwa, with a First Class Honors in B.Sc (Engineering), <a href="https://m.facebook.com/story.php
 		story_fbid=pfbid02EP7C6AouC8Rmia2gbVP69GP81E8LHmbg8tnurEbpB2Fxv2YZiX2KjtZKzo5uXLaJl&id=100063733742397&mibextid=Nif5oz"><b>Gold medals</b></a>: for academics, and overall performance in leadership, and civic service. 
 		</td> 	
 	</tr>
 
      <tr>
-    	<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">November 2023</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Remote project with prof. Marco F. Duarte accepted for the <a href="https://signalprocessingsociety.org/professional-development/me-uyr-mentoring-experiences-underrepresented-young-researchers-program"><b>"IEEE ME-UYR"</b></a> program by the IEEE Signal Processing Society.
 		</td> 	
 	</tr>
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">August 2023</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Invited to participate in the <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPlanck Research School"</b></a> by at MPI Saarbruecken, Germany.
 		</td> 	
 	</tr>
 
  	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">July 2023</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Joined the <b>University of Moratuwa</b> as a <b>Visiting Instructor.</b>
 		</td> 	
 	</tr>
     
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">June 2023</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Presented my final year thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa.
 		</td> 	
 	</tr>
@@ -170,55 +172,55 @@ I’m always happy to collaborate and make new friends. Feel free to reach out!
 
     
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">May 2023</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">May 2023</td>
+    	<td style = "border: none;font-size:15px;"> 
 		<a href="https://arxiv.org/abs/2306.00906"><b>"MOSAIC"</b></a>: Masked Optimisation with Selective Attention for Image reconstruction" is published on arxiv.
 		</td> 	
 	</tr>  
  
 	
  	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">November 2022</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">November 2022</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Joined <b> Centre for Advanced Imaging at Harvard University </b> as a <b> Remote Undergraduate Research Fellow </b>, under supervision of <b> Dr. Dushan. N. Wadduwage</b> from Wadduwage Lab, focusing on deep learning based image reconstruction algorithms for microscopy.
 		</td> 	
 	</tr>	
 
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">January 2022</td>
+    	<td style = "border: none;font-size:15px;"> 
 		co-authored paper: <a href="https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c"><b>HPGNN: Hierarchical Point GNN for Outdoor Point Cloud processing</b></a> accepted at <b>ICPR 2022.</b>
 		</td> 	
 	</tr>
 
     
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">December 2021</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">December 2021</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Joined the School of Computer Science, <b>University of Sydney</b> as a <b>Research Intern.</b>
 		</td> 	
 	</tr>
 	   
 	   
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
-    	<td style = "border: none;font-size:17px;"> 
+    	<td style = "border: none;color:blue;font-size:15px;">July 2021</td>
+    	<td style = "border: none;font-size:15px;"> 
 		Virtually attended ICASSP 2021 to defend our solution to the <a href="https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2021"><b>IEEE Signal Processing Cup</b></a>, and Won the global championship
 		</td> 	
 	</tr>
 
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">May 2021</td>
-    	<td style = "border: none;font-size:17px;"> Appointed as <b> Assistant Manager </b> of the Knowledge Hub of the Electronic Club.
+    	<td style = "border: none;color:blue;font-size:15px;">May 2021</td>
+    	<td style = "border: none;font-size:15px;"> Appointed as <b> Assistant Manager </b> of the Knowledge Hub of the Electronic Club.
 		</td> 	
 	</tr>
 	
 
 	<tr>
-    	<td style = "border: none;color:blue;font-size:17px;">October 2018</td>
-    	<td style = "border: none;font-size:17px;"> Started my undergraduate degree in Electronic and Telecommunications Engineering at University of Moratuwa, Sri Lanka.
+    	<td style = "border: none;color:blue;font-size:15px;">October 2018</td>
+    	<td style = "border: none;font-size:15px;"> Started my undergraduate degree in Electronic and Telecommunications Engineering at University of Moratuwa, Sri Lanka.
 		</td> 	
 	</tr>
    </table> 
