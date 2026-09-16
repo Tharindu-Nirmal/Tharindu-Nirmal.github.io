@@ -26,6 +26,7 @@ redirect_from:
   /* Layout for highlighted research items */
   .research-list {
     margin-top: 0.5rem;
+    margin-bottom: 96px;
   }
 
   .research-item {
@@ -84,7 +85,7 @@ I'm always happy to collaborate and make new friends — feel free to reach out!
 
 <h2 class="section-title">News</h2>
 
-<div style="height: 300px; overflow: auto; width: 800px;">
+<div style="height: 300px; overflow: auto; width: 800px; margin-bottom: 96px;">
   <table style = "border: none;width: 100%">
 	<colgroup>
        	<col span="1" style="width: 20%;">
@@ -276,7 +277,7 @@ I'm always happy to collaborate and make new friends — feel free to reach out!
     </div>
   </div>
 
-  <h3 class="research-subtitle">Structured Sparsity</h3>
+  <h3 class="research-subtitle">Computational Imaging</h3>
 
   <!-- Research item 4 -->
   <div class="research-item">
@@ -291,8 +292,6 @@ I'm always happy to collaborate and make new friends — feel free to reach out!
       </p>
     </div>
   </div>
-
-  <h3 class="research-subtitle">Computational Imaging & Microscopy</h3>
 
   <!-- Research item 5 -->
   <div class="research-item">
