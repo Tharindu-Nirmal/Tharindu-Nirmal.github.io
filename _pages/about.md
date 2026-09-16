@@ -64,9 +64,9 @@ redirect_from:
 	
 <p>I'm Tharindu Wickremasinghe, a third-year PhD student at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>, under the supervision of <a href="https://scholar.google.com/citations?user=ZlNq4_4AAAAJ&hl=en">Prof. Stanley H. Chan</a> at the <a href="https://engineering.purdue.edu/ChanGroup/">Intelligent Imaging Lab</a>. Prior to graduate school, I received my Bachelor's degree in Electronics and Telecommunications Engineering from the University of Moratuwa, Sri Lanka.</p>
 
-<p>My research is in grounding powerful generative AI models in the physical laws and constraints of the real world, while also giving a human the ability to better interact and control the model. I focus on <strong>image/video enhancement using generative AI</strong>, working at the intersection of generative modeling, image/video restoration, and computational imaging — leveraging vision and language models to enforce <strong>physically consistent</strong> enhancement of images and videos.</p>
+<p>My research is in grounding powerful vision and language models in the physical laws and constraints of the real world, while also giving a human the ability to better interact and control the model. I focus on <strong>image/video enhancement using generative AI</strong>, working at the intersection of generative modeling, image/video restoration, and computational imaging.</p>
 
-<p>I enjoy identifying fundamental problems in emerging areas and developing simple, effective solutions to them. Following this philosophy, I have contributed to research directions including <a href="https://tharindu-nirmal.github.io/FlowSteer/">FlowSteer</a>, <a href="https://yuyuanspace.com/SeeU/">SeeU</a>, and <a href="https://yuyuanspace.com/NewtonGen/">NewtonGen</a>.<br>
+<p>I believe the power of AI is only effective if it is better controlled and interactive with a human user. Following this philosophy, I have contributed to research directions including <a href="https://tharindu-nirmal.github.io/FlowSteer/">FlowSteer</a>, <a href="https://yuyuanspace.com/SeeU/">SeeU</a>, and <a href="https://yuyuanspace.com/NewtonGen/">NewtonGen</a>.<br>
 <span style="color:#c6453d;"><strong>I am actively searching for internships for Summer 2027.</strong></span><br>
 I'm always happy to collaborate and make new friends — feel free to reach out!</p>
 
@@ -288,6 +288,64 @@ I'm always happy to collaborate and make new friends — feel free to reach out!
       <p><i>IEEE Asilomar Conference on Signals, Systems, and Computers 2025.</i>
         <a href="https://www.arxiv.org/abs/2512.07259">arXiv</a> /
         <a href="https://github.com/Tharindu-Nirmal/psp-affine-clustering">code</a>
+      </p>
+    </div>
+  </div>
+
+  <h3 class="research-subtitle">Computational Imaging & Microscopy</h3>
+
+  <!-- Research item 5 -->
+  <div class="research-item">
+    <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
+    <img src="../images/MOSAIC_image.png" alt="MOSAIC teaser" class="research-thumb" />
+    <div>
+      <h3>MOSAIC: Masked Optimization with Selective Attention for Image Reconstruction</h3>
+      <p>P. Somarathne, <b>T. Wickremasinghe</b>, A. Niwarthana, A. Thieshanthan, C. Edussooriya, D. Wadduwage</p>
+      <p><i>arXiv preprint, 2023</i>
+        <a href="https://arxiv.org/abs/2306.00906">arXiv</a>
+      </p>
+    </div>
+  </div>
+
+  <h3 class="research-subtitle">Embedded Vision & Autonomous Systems</h3>
+
+  <!-- Research item 6 -->
+  <div class="research-item">
+    <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
+    <img src="../images/HPGNN_image.jpg" alt="HPGNN teaser" class="research-thumb" />
+    <div>
+      <h3>HPGNN: Using Hierarchical Graph Neural Networks for Outdoor Point Cloud Processing</h3>
+      <p>A. Thieshanthan, A. Niwarthana, P. Somarathne, <b>T. Wickremasinghe</b>, R. Rodrigo</p>
+      <p><i>ICPR 2022</i>
+        <a href="https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c">proceedings</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Research item 7 -->
+  <div class="research-item">
+    <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
+    <img src="../images/Traffic_sign_image.png" alt="Traffic sign and light detection teaser" class="research-thumb" />
+    <div>
+      <h3>Towards Real-time Traffic Sign and Traffic Light Detection on Embedded Systems</h3>
+      <p>O. Jayasinghe, S. Hemachandra, D. Anhettigama, S. Kariyawasam, <b>T. Wickremasinghe</b>, C. Ekanayaka, R. Rodrigo, P. Jayasekara</p>
+      <p><i>IEEE Intelligent Vehicles Symposium (IV) 2022</i>
+        <a href="https://ieeexplore.ieee.org/abstract/document/9827355">proceedings</a>
+      </p>
+    </div>
+  </div>
+
+  <h3 class="research-subtitle">Wireless Communications</h3>
+
+  <!-- Research item 8 -->
+  <div class="research-item">
+    <!-- Replace src with your teaser image path or remove the img tag if you don't want images -->
+    <img src="../images/IRS_assisted_communication.png" alt="IRS-assisted communications teaser" class="research-thumb" />
+    <div>
+      <h3>Max-Min Fairness for IRS-Assisted Secure Two-Way Communications</h3>
+      <p>Harindu Jayarathne, <b>Tharindu Wickremasinghe</b>, Kasun T. Hemachandra, Tharaka Samarasinghe, Saman Atapattu</p>
+      <p><i>IEEE Wireless Communications and Networking Conference (WCNC) 2025</i>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10978502">proceedings</a>
       </p>
     </div>
   </div>
