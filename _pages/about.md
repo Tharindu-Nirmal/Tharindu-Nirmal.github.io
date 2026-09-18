@@ -67,7 +67,7 @@ redirect_from:
 
 <p>My research is in grounding powerful vision and language models in the physical laws and constraints of the real world, while also giving a human the ability to better interact and control the model. I focus on <strong>image/video enhancement using generative AI</strong>, working at the intersection of generative modeling, image/video restoration, and computational imaging.</p>
 
-<p>I believe the power of AI is only effective if it is better controlled and interactive with a human user. Following this philosophy, I have contributed to research directions including <a href="https://tharindu-nirmal.github.io/FlowSteer/">FlowSteer</a>, <a href="https://yuyuanspace.com/SeeU/">SeeU</a>, and <a href="https://yuyuanspace.com/NewtonGen/">NewtonGen</a>.<br>
+<p>I believe the power of AI is only effective if it is better controlled and interactive with a human user. Following this philosophy, I have contributed to research directions including <a href="https://stanleychangroup.github.io/FlowSteer-CVPRF2026/">FlowSteer</a>, <a href="https://yuyuanspace.com/SeeU/">SeeU</a>, and <a href="https://yuyuanspace.com/NewtonGen/">NewtonGen</a>.<br>
 <span style="color:#c6453d;"><strong>I am actively searching for internships for Summer 2027.</strong></span><br>
 I'm always happy to collaborate and make new friends — feel free to reach out!</p>
 
@@ -95,14 +95,14 @@ I'm always happy to collaborate and make new friends — feel free to reach out!
 	<tr>
     	<td style = "border: none;color:blue;font-size:15px;">January 2026</td>
     	<td style = "border: none;font-size:15px;"> 
-		<a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: has been accepted by ICLR 2026!. <a href="https://tharindu-nirmal.github.io/FlowSteer/"><b>FlowSteer</b></a> has been accepted by CVPR 2026(Findings), and <a href="https://yuyuanspace.com/SeeU/"><b>SeeU</b></a> has been accepted by CVPR 2026!
+		<a href="https://yuyuanspace.com/NewtonGen/"><b>NewtonGen</b></a>: has been accepted by ICLR 2026!. <a href="https://stanleychangroup.github.io/FlowSteer-CVPRF2026/"><b>FlowSteer</b></a> has been accepted by CVPR 2026(Findings), and <a href="https://yuyuanspace.com/SeeU/"><b>SeeU</b></a> has been accepted by CVPR 2026!
 		</td> 	
 	</tr>
 
 	<tr>
     	<td style = "border: none;color:blue;font-size:15px;">November 2025</td>
     	<td style = "border: none;font-size:15px;"> 
-		We released <a href="https://tharindu-nirmal.github.io/FlowSteer/"><b>FlowSteer</b></a>: which restores image degradations by steering flow models to preserve high pixel-level fidelity. 
+		We released <a href="https://stanleychangroup.github.io/FlowSteer-CVPRF2026/"><b>FlowSteer</b></a>: which restores image degradations by steering flow models to preserve high pixel-level fidelity. 
 		</td> 	
 	</tr>
 
@@ -241,7 +241,7 @@ I'm always happy to collaborate and make new friends — feel free to reach out!
       <h3>FlowSteer: Conditioning Flow Field for Consistent Image Restoration</h3>
       <p><b>Tharindu Wickremasinghe</b>, Chenyang Qi, Harshana Weligampola, Zhengzhong Tu, Stanley H. Chan.</p>
       <p><i>CVPR 2026 (Findings)</i>
-        <a href="https://tharindu-nirmal.github.io/FlowSteer/">project</a> /
+        <a href="https://stanleychangroup.github.io/FlowSteer-CVPRF2026/">project</a> /
         <a href="https://arxiv.org/abs/2512.08125/">arXiv</a> /
         <a href="https://github.com/Tharindu-Nirmal/FlowSteer">code(Coming soon)</a>
       </p>
