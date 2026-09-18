@@ -243,7 +243,7 @@ I'm always happy to collaborate and make new friends — feel free to reach out!
       <p><i>CVPR 2026 (Findings)</i>
         <a href="https://stanleychangroup.github.io/FlowSteer-CVPRF2026/">project</a> /
         <a href="https://arxiv.org/abs/2512.08125/">arXiv</a> /
-        <a href="https://github.com/Tharindu-Nirmal/FlowSteer">code(Coming soon)</a>
+        <a href="https://github.com/Tharindu-Nirmal/FlowSteer">code</a>
       </p>
     </div>
   </div>
